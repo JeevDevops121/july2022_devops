@@ -27,7 +27,7 @@ Jenkins ( CI )
 CI ( continuous Integration )
 
 Jenkins Job      : maven goal           : post build action 
-                
+ Comiple Job     : compile   		: NA
                  
 job1-codereview	 : -P metrics pmd:pmd   : **/pmd.xml ( publish pmd analysis results )
                  
